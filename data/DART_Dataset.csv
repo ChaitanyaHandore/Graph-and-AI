@@ -1,0 +1,97 @@
+StationName,Operational,Location,Station Address,Eircode,ATM,Weekend Working,Wi-Fi & Internet Access,Refreshments,Phone Charging,Ticket Vending Machine,Smart Card Enabled,Routes Serviced,Distance_km,TravelTime_min,EndStation
+Adamstown,Yes,5 minutes walk from the main centre of Adamstown,"Adamstown, Co Dublin",K78 EF64,No,Closed,No,No,No,Yes,Yes,"Dublin Heuston - Cork, Grand Canal Dock and Dublin Heuston - Portlaoise",16.57,35.2,Portlaoise
+Athenry,Yes,Adjacent to Athenry Town Centre,"Athenry, Co Galway",H65 XR66,No,Closed,No,No,No,Yes,Yes,"Galway - Dublin Heuston, Galway - Limerick",25.83,46.1,Limerick
+Attymon,Yes,Rural station near Attymon village,"Attymon, Co Galway",H65 WF95,No,Closed,No,No,No,No,Yes,Galway - Dublin Heuston,24.52,43.4,Dublin Heuston
+Bagenalstown,Yes,Near Muine Bheag town centre,"Station Road, Bagenalstown, Co Carlow",R21 DH28,No,Closed,No,No,No,Yes,Yes,Dublin Heuston - Waterford,1.16,2.7,Waterford
+Balbriggan,Yes,"In the town of Balbriggan, north of Dublin","Balbriggan, Co Dublin",K32 E362,No,Yes,No,Yes,No,Yes,Yes,"Dublin Connolly - Drogheda, Dundalk, Belfast",23.3,55.4,Belfast
+Ballybrophy,Yes,Rural station near Ballybrophy,"Ballybrophy, Co Laois",R32 ED77,No,Closed,No,No,No,Yes,Yes,"Dublin Heuston - Cork, Limerick - Ballybrophy (Branch Line), Ballybrophy - Nenagh",20.06,34.2,Nenagh
+Ballymote,Yes,Adjacent to Ballymote town centre,"Ballymote, Co Sligo",F56 XN77,No,Closed,No,No,No,Yes,Yes,Dublin Connolly - Sligo,28.03,53.6,Sligo
+Ballyhaunis,Yes,Close to Ballyhaunis Town Centre,"Ballyhaunis, Co Mayo",F35 FT54,No,Closed,No,No,No,Yes,Yes,Dublin Heuston - Westport/Ballina,1.79,2.7,Ballina
+Barnagh,Proposed,Under development as part of the Greenway project*,"Barnagh, Co Limerick (details TBC)*",TBC,TBC*,TBC*,TBC*,TBC*,TBC*,TBC*,TBC*,TBC* (Check official site for updates),9.77,22.4,TBC
+Boyle,Yes,Short walk from Boyle town centre,"Boyle, Co Roscommon",F52 XH74,No,Closed,No,No,No,Yes,Yes,Dublin Connolly - Sligo,24.61,50.7,Sligo
+Bray,Yes,On the southern end of the DART line in Bray town,"Bray, Co Wicklow",A98 Y6N3,No,Yes,Yes,Yes,Yes,Yes,Yes,"DART (Bray - Malahide/Howth), Dublin Connolly - Rosslare Europort, Commuter services",6.34,11.8,Commuter services
+Castlebar,Yes,Near Castlebar town centre,"Castlebar, Co Mayo",F23 F658,No,Closed,No,No,No,Yes,Yes,Dublin Heuston - Westport,11.1,27.1,Westport
+Castlerea,Yes,Close to Castlerea town centre,"Castlerea, Co Roscommon",F45 CX00,No,Closed,No,No,No,Yes,Yes,Dublin Heuston - Westport/Ballina,17.03,38.2,Westport
+Claremorris,Yes,Walking distance from Claremorris town centre,"Claremorris, Co Mayo",F12 FD35,No,Closed,No,No,No,Yes,Yes,"Dublin Heuston - Westport/Ballina, (Future Western Rail Corridor)",2.78,4.7,Ballina
+Clara,Yes,Near Clara town centre,"Clara, Co Offaly",R35 NN96,No,Closed,No,No,No,Yes,Yes,Dublin Heuston - Galway/Westport/Ballina,14.57,31.8,Ballina
+Clongriffin,Yes,"Adjacent to the Clongriffin area, north Dublin","Clongriffin, Co Dublin",D13 HK30,No,Yes,Yes,No,Yes,Yes,Yes,"DART (Malahide - Bray/Greystones), Northern Commuter",17.35,36.1,Northern Commuter
+Clonsilla,Yes,West Dublin suburban area,"Clonsilla, Dublin 15",D15 F290,No,Yes,Yes,No,Yes,Yes,Yes,"Maynooth/M3 Parkway - Dublin Connolly, Longford - Dublin Connolly",16.64,32.4,Dublin Connolly
+Coachford,No,Former station not in service*,"Coachford, Co Cork (Historic Station)*",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Closed station - historical),1.2,2.7,Closed
+Cobh,Yes,Adjacent to Cobh Town Centre,"Cobh, Co Cork",P24 F272,No,Yes,No,Yes,No,Yes,Yes,"Cork - Cobh (Commuter), connects at Cork Kent for main Intercity routes",15.76,28.3,Cork
+Connolly (Dublin Connolly),Yes,Central station in Dublin city centre,"Amiens Street, Dublin 1",D01 V6V6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Intercity: Dublin-Belfast, Dublin-Sligo; DART; Commuter; Luas link; Enterprise",11.9,26.4,Sligo
+Cork Kent,Yes,Major station near Cork City Centre,"Lower Glanmire Road, Cork",T23 E6TD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Intercity: Dublin-Cork, Cork-Tralee; Cork Commuter lines (Mallow, Cobh, Midleton)",12.57,28,Cork
+Dalkey,Yes,South Dublin coastal suburb,"Dalkey, Co Dublin",A96 T9E3,No,Yes,Yes,Yes,Possibly,Yes,Yes,DART (Howth/Malahide - Greystones),10.04,18.8,Greystones
+Docklands,Yes,"North Docklands area, Dublin","Sheriff Street Lower, Dublin 1",D01 W893,No,Limited,Yes,No,Possibly,Yes,Yes,Commuter: Dublin Docklands - M3 Parkway,22.05,42.7,M3 Parkway
+Dromod,Yes,Village in Co Leitrim,"Dromod, Co Leitrim",N41 EE04,No,Limited,No,No,No,Yes,Yes,Dublin Connolly - Sligo,16.75,39.9,Sligo
+Drogheda (MacBride),Yes,"Drogheda Town, Co Louth","Drogheda, Co Louth",A92 YA07,No,Yes,No,Limited,No,Yes,Yes,"Dublin Connolly - Dundalk/Belfast, Commuter",22.23,37.7,Belfast
+Drumcondra,Yes,Suburban Dublin (near Drumcondra),"Drumcondra Rd Lower, Dublin 9",D09 V2F7,No,Yes,No,No,No,Yes,Yes,Maynooth/M3 Parkway - Dublin Connolly (Commuter),26.49,54.6,Dublin Connolly
+Dunboyne,Yes,Village in Co Meath,"Dunboyne, Co Meath",A86 W884,No,Limited,Yes,No,Possibly,Yes,Yes,M3 Parkway - Dublin Docklands (Commuter),8.31,13,Dublin Docklands
+Dún Laoghaire,Yes,Coastal suburb in South Dublin,"Crofton Road, Dún Laoghaire, Co Dublin",A96 R0K2,No,Yes,Yes,Yes,Possibly,Yes,Yes,DART (Howth/Malahide - Bray/Greystones),3.95,9.4,Greystones
+Dublin Connolly,Yes,Dublin city centre,"Amiens Street, Dublin 1",D01 V6V6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Intercity: Dublin-Belfast, Dublin-Sligo; DART; Commuter; Enterprise",1.05,2.3,Sligo
+Dublin Heuston,Yes,West of Dublin city centre,"St. John’s Road West, Dublin 8",D08 RX66,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Intercity: Dublin-Cork/Galway/Limerick/Waterford/Westport/Tralee,3.18,7.2,Tralee
+Dublin Pearse,Yes,Dublin city centre (South side),"Westland Row, Dublin 2",D02 W274,No,Yes,Yes,Limited,Possibly,Yes,Yes,DART; Commuter (Northern & Southeastern lines),10.98,20.6,Southeastern lines
+Edgeworthstown,Yes,Town in Co Longford,"Edgeworthstown, Co Longford",N39 R627,No,Limited,No,No,No,Yes,Yes,Dublin Connolly - Longford - Sligo,24.72,37.8,Sligo
+Enfield,Yes,Village in Co Meath,"Enfield, Co Meath",A83 K298,No,Limited,No,No,No,Yes,Yes,Dublin Connolly - Longford - Sligo,16.92,30.4,Sligo
+Ennis,Yes,Town in Co Clare,"Ennis, Co Clare",V95 W6W7,No,Yes,No,No,No,Yes,Yes,Limerick - Galway line,1.83,3.3,Galway line
+Enniscorthy,Yes,Town in Co Wexford,"Enniscorthy, Co Wexford",Y21 KN47,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Rosslare Europort,15.03,29.4,Rosslare Europort
+Farranfore,Yes,Village in Co Kerry,"Farranfore, Co Kerry",V93 H6WH,No,Yes,No,No,No,Yes,Yes,Mallow - Tralee (Cork/Kerry Intercity),16.14,28.1,Tralee
+Fota,Yes,"Island near Cobh, Cork","Fota, Co Cork",T45 DW56,No,Yes,No,No,No,Yes,Yes,Cork - Cobh Commuter line,14.31,32.1,Cobh Commuter line
+Foxford,Yes,Town in Co Mayo,"Foxford, Co Mayo",F26 EH48,No,Limited,No,No,No,No,Yes,Dublin Heuston - Ballina/Westport branch,14.46,24.6,Ballina
+Galway (Ceannt),Yes,Galway city centre,"Eyre Square, Galway",H91 T9CE,No,Yes,Yes,Yes,Possibly,Yes,Yes,Dublin Heuston - Galway; Galway - Limerick,28.73,65.4,Limerick
+Glounthaune,Yes,Suburban Cork (near Cork Harbour),"Glounthaune, Co Cork",T45 PF22,No,Yes,No,No,No,Yes,Yes,Cork - Cobh/Midleton lines,18.76,40.4,Cobh/Midleton lines
+Gorey,Yes,Town in Co Wexford,"Gorey, Co Wexford",Y25 HH74,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Rosslare Europort,22.65,45.6,Rosslare Europort
+Gormanston,Yes,Village in Co Meath,"Gormanston, Co Meath",K32 P903,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Drogheda/Dundalk (Commuter),10.49,22,Drogheda
+Gort,Yes,Town in Co Galway,"Gort, Co Galway",H91 KD9W,No,Yes,No,No,No,Yes,Yes,Limerick - Galway line,24.11,45,Galway line
+Grand Canal Dock,Yes,"Dublin (south side, near Docklands)","Barrow Street, Dublin 4",D04 E7N8,No,Yes,Yes,No,Possibly,Yes,Yes,DART & Commuter services linking southside and city centre,9.51,23.1,City Center
+Greystones,Yes,Coastal town in Co Wicklow,"Greystones, Co Wicklow",A63 EH77,No,Yes,No,Yes,Possibly,Yes,Yes,"DART (Howth/Malahide - Greystones), Commuter/Intercity to Rosslare",7.4,13.2,Rosslare
+Hazelhatch & Celbridge,Yes,"Between Hazelhatch and Celbridge, Co. Kildare","Hazelhatch Rd, Co. Kildare",W23 XH27,No,Yes,Yes,No,Possibly,Yes,Yes,Dublin Heuston - Portlaoise/Cork (Commuter and Intercity),24.57,59.9,Cork
+Hill of Down (Closed)*,No,"Former station near Kinnegad, Co. Meath (not in service)",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Closed),15.28,30.5,Closed
+Howth,Yes,Coastal suburb in North Dublin,"Howth, Co. Dublin",D13 HX80,No,Yes,Yes,Yes,Possibly,Yes,Yes,DART (Howth - Bray/Greystones),20.78,45.5,Greystones
+Howth Junction & Donaghmede,Yes,Northern Dublin suburban area,"Donaghmede, Dublin 13",D13 AX53,No,Yes,Yes,No,Possibly,Yes,Yes,"DART (Howth/Malahide - Bray/Greystones), Northern Commuter services",3.22,6.6,Northern Commuter services
+Kilcock,Yes,Town in North Kildare,"Kilcock, Co. Kildare",W23 CX62,No,Limited,No,No,No,Yes,Yes,Dublin Connolly - Longford/Sligo (Commuter),27.33,44.9,Sligo
+Kildare,Yes,Town in Co. Kildare,"Kildare, Co. Kildare",R51 DP79,No,Yes,No,No,No,Yes,Yes,Dublin Heuston - Cork/Limerick/Waterford/Galway etc.,20.24,43.9,Galway
+Killester,Yes,Suburb in North Dublin,"Killester, Dublin 5",D05 F6N2,No,Yes,Yes,No,Possibly,Yes,Yes,DART (Howth - Bray/Greystones),2.95,5.5,Greystones
+Kilcoole,Yes,Village in Co. Wicklow,"Kilcoole, Co. Wicklow",A63 KD78,No,Limited,No,No,No,Yes,Yes,Dublin Connolly - Rosslare Europort (Limited service),27.61,65.3,Rosslare Europort
+Kilkenny (MacDonagh),Yes,City in Co. Kilkenny,"MacDonagh Junction, Kilkenny",R95 P7R8,No,Yes,No,Yes,Possibly,Yes,Yes,Dublin Heuston - Waterford line,2.15,4.1,Waterford line
+Knockcroghery,Yes,Village in Co. Roscommon,"Knockcroghery, Co. Roscommon",F42 A290,No,Limited,No,No,No,Yes,Yes,Dublin Heuston - Westport/Ballina line (Limited stops),10.53,24.2,Ballina
+Lahinch (Closed)*,No,Former station (not in service),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A (Closed),17.59,40,Closed
+Laytown,Yes,Village in Co. Meath (Coastal),"Laytown, Co. Meath",A92 K826,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Drogheda/Dundalk/Belfast,27.95,43.8,Belfast
+Leixlip Confey,Yes,"Leixlip, Co. Kildare (Confey area)","Leixlip, Co. Kildare",W23 EY13,No,Yes,Yes,No,Possibly,Yes,Yes,Maynooth/M3 Parkway - Dublin Connolly line,26.92,66.7,Dublin Connolly line
+Leixlip Louisa Bridge,Yes,"Leixlip, Co. Kildare (Louisa Bridge area)","Leixlip, Co. Kildare",W23 H2V3,No,Yes,Yes,No,Possibly,Yes,Yes,Maynooth/M3 Parkway - Dublin Connolly line,12.35,27.9,Dublin Connolly line
+Limerick (Colbert),Yes,Limerick city centre,"Parnell St, Limerick",V94 E6HD,No,Yes,No,No,Yes,Yes,Yes,"Limerick Junction - Ennis/Galway, Limerick - Ballybrophy",22.24,50.3,Ballybrophy
+Limerick Junction,Yes,Near Tipperary Town,"Limerick Junction, Co Tipp",E34 E193,No,Yes,No,No,No,Yes,Yes,Dublin Heuston - Cork/Tralee/Limerick/Waterford,3.94,8.8,Waterford
+Longford,Yes,Longford town,"Longford, Co. Longford",N39 A0E4,No,Yes,No,No,Yes,Yes,Yes,Dublin Connolly - Longford/Sligo route,9.7,20.3,Sligo
+Lusk & Rush,Yes,"Between Lusk and Rush, North Co. Dublin","Lusk, Co. Dublin",K45 HK85,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Drogheda/Dundalk/Belfast,2.24,3.6,Belfast
+M3 Parkway,Yes,Park & Ride near Dunboyne,"Dunboyne, Co. Meath",A86 YW72,No,Yes,Yes,No,Possibly,Yes,Yes,M3 Parkway - Dublin Docklands (Commuter),3.36,7.1,Docklands
+Malahide,Yes,Coastal suburb North Dublin,"Malahide, Co. Dublin",K36 K095,No,Yes,Yes,Yes,Possibly,Yes,Yes,"DART (Malahide - Bray/Greystones), Commuter, Belfast Intercity",9.97,19.7,Belfast Intercity
+Manulla Junction,Yes,Rural junction in Co. Mayo,"Manulla, Co. Mayo",F23 RX07,No,Limited,No,No,No,Yes,Yes,Transfer point: Dublin - Westport/Ballina line,8.05,17.7,Westport/Ballina line
+Mallow,Yes,"Mallow, Co. Cork","Mallow, Co. Cork",P51 Y065,No,Yes,No,Yes,Possibly,Yes,Yes,"Dublin Heuston - Cork/Tralee lines, Cork Commuter",3.66,5.9,Cork Commuter
+Maynooth,Yes,Town in Co. Kildare,"Maynooth, Co. Kildare",W23 DV59,No,Yes,Yes,No,Possibly,Yes,Yes,Dublin Connolly - Maynooth/Longford/Sligo line,9.68,18.3,Sligo
+Midleton,Yes,Town in East Cork,"Midleton, Co. Cork",P25 D215,No,Yes,No,No,No,Yes,Yes,Cork - Midleton Commuter line,15.02,24.1,Midleton Commuter line
+Monasterevin,Yes,Town in Co. Kildare,"Monasterevin, Co. Kildare",W34 V580,No,Limited,No,No,No,Yes,Yes,Dublin Heuston - Cork (Selected services),16.94,41,Cork
+Mullingar,Yes,Town in Co. Westmeath,"Mullingar, Co. Westmeath",N91 P9C0,No,Yes,No,No,Yes,Yes,Yes,Dublin Connolly - Longford/Sligo route,18.82,35.8,Sligo
+Nenagh,Yes,Town in Co. Tipperary,"Nenagh, Co. Tipperary",E45 YX86,No,Limited,No,No,No,Yes,Yes,Ballybrophy - Limerick (Branch line),7.86,14.4,Limerick
+Newbridge,Yes,Town in Co. Kildare,"Newbridge, Co. Kildare",W12 XY14,No,Yes,No,No,Yes,Yes,Yes,Dublin Heuston - Cork/Galway/Limerick/Waterford routes,9.6,22.5,Waterford
+Oranmore,Yes,Suburb of Galway,"Oranmore, Co. Galway",H91 A4CY,No,Yes,No,No,No,Yes,Yes,Galway - Limerick line,26.4,59.6,Limerick
+Parkwest & Cherry Orchard,Yes,West Dublin suburban area,"Parkwest, Dublin 12",D12 E9R9,No,Yes,Yes,No,Possibly,Yes,Yes,Dublin Heuston - Newbridge/Portlaoise (Commuter),28.04,42.5,Portlaoise
+Portarlington,Yes,Town in Co. Laois,"Portarlington, Co. Laois",R32 HX56,No,Yes,No,No,No,Yes,Yes,Dublin Heuston - Cork/Galway/Limerick/Waterford,7.18,16,Cork
+Portlaoise,Yes,Town in Co. Laois,"Portlaoise, Co. Laois",R32 X399,No,Yes,No,No,Yes,Yes,Yes,Dublin Heuston - Cork route (also Commuter services),13.91,28.7,Cork
+Portmarnock,Yes,North Dublin coastal area,"Portmarnock, Co. Dublin",D13 X791,No,Yes,Yes,No,Possibly,Yes,Yes,"DART (Howth/Malahide - Bray/Greystones), Commuter",12.86,22.4,Commuter
+Rathdrum,Yes,Village in Co. Wicklow,"Rathdrum, Co. Wicklow",A67 N763,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Rosslare Europort,13.51,29.9,Rosslare Europort
+Roscommon,Yes,Town in Co. Roscommon,"Roscommon, Co. Roscommon",F42 HP26,No,Yes,No,No,No,Yes,Yes,Dublin Heuston - Westport/Ballina,28.38,56.1,Westport/Ballina
+Rosslare Europort,Yes,Ferry port in Co. Wexford,"Rosslare Europort, Co. Wexford",Y35 PH4X,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Rosslare Europort,20.31,43.5,Rosslare Europort
+Rosslare Strand,Yes,Coastal area in Co. Wexford,"Rosslare Strand, Co. Wexford",Y35 T3N3,No,Limited,No,No,No,Yes,Yes,Dublin Connolly - Rosslare Europort,21.93,42.9,Rosslare Europort
+Rush & Lusk,Yes,Between Rush & Lusk in North Dublin,"Rush, Co. Dublin",K45 HK85,No,Yes,No,No,No,Yes,Yes,Dublin Connolly - Drogheda/Dundalk/Belfast (Commuter),9.47,21.8,Belfast
+Sallins & Naas,Yes,"Near Sallins, serving Naas, Co. Kildare","Sallins, Co. Kildare",W91 P8C0,No,Yes,No,No,Yes,Yes,Yes,Dublin Heuston - Cork/Galway/Limerick/Waterford,17.32,29.4,Cork
+Salthill & Monkstown,Yes,Coastal stop in South Dublin (DART),"Monkstown, Co. Dublin",A94 PF66,No,Yes,Yes,No,Possibly,Yes,Yes,DART (Howth/Malahide - Bray/Greystones),11.84,29.4,Greystones
+Shankill,Yes,South Dublin suburb (DART),"Shankill, Co. Dublin",D18 TF44,No,Yes,Yes,No,Possibly,Yes,Yes,DART (Howth/Malahide - Bray/Greystones),3.13,7.3,Greystones
+Skerries,Yes,Coastal town in North Dublin,"Skerries, Co. Dublin",K34 HV51,No,Yes,Yes,No,Possibly,Yes,Yes,"DART, Commuter (Dublin Connolly - Drogheda/Dundalk)",22.51,45.5,Dundalk
+Sligo (Mac Diarmada),Yes,Sligo town,"Sligo, Co. Sligo",F91 W535,No,Yes,No,Yes,Possibly,Yes,Yes,Dublin Connolly - Sligo,12.98,26.9,Sligo
+Sutton,Yes,North Dublin suburb (DART),"Sutton, Co. Dublin",D13 DE44,No,Yes,Yes,No,Possibly,Yes,Yes,DART (Howth - Bray/Greystones),28.15,60.8,Greystones
+Sydney Parade,Yes,Dublin suburb on the South side (DART),"Sydney Parade, Dublin 4",D04 XA03,No,Yes,Yes,No,Possibly,Yes,Yes,DART (Howth/Malahide - Bray/Greystones),28.96,53.4,Greystones
+Templemore,Yes,Town in Co. Tipperary,"Templemore, Co. Tipp",E41 FY85,No,Yes,No,No,No,Yes,Yes,Dublin Heuston - Cork/Limerick/Tralee (via Limerick J),11.95,26.9,Cork
+Thurles,Yes,Town in Co. Tipperary,"Thurles, Co. Tipp",E41 N527,No,Yes,No,Yes,Possibly,Yes,Yes,Dublin Heuston - Cork/Limerick/Galway etc.,22.24,45.8,Cork
+Tipperary,Yes,Town in Co. Tipperary,"Tipperary, Co. Tipp",E34 HE03,No,Limited,No,No,No,Yes,Yes,Limerick Junction - Waterford line,10.19,21.5,Waterford
+Waterford (Plunkett),Yes,Waterford city,"Waterford, Co. Waterford",X91 A3CV,No,Yes,No,Yes,Possibly,Yes,Yes,Dublin Heuston - Waterford,29.01,51.2,Waterford
+Wicklow,Yes,Town in Co. Wicklow,"Wicklow, Co. Wicklow",A67 VP95,No,Yes,No,No,Yes,Yes,Yes,Dublin Connolly - Rosslare Europort,27.92,64.1,Rosslare Europort
+Woodlawn,Yes,Rural station in Galway,"Woodlawn, Co. Galway",H53 HH67,No,Limited,No,No,No,Yes,Yes,Dublin Heuston - Galway (Selected services),17.29,39.5,Galway
